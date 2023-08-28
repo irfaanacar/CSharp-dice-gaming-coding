@@ -1,0 +1,16 @@
+C:\Users\irfaa\OneDrive\Masaüstü\C#\Zaratma\bin\Debug\net6.0-windows\Zaratma.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\Zaratma\bin\Debug\net6.0-windows\Zaratma.deps.json
+C:\Users\irfaa\OneDrive\Masaüstü\C#\Zaratma\bin\Debug\net6.0-windows\Zaratma.runtimeconfig.json
+C:\Users\irfaa\OneDrive\Masaüstü\C#\Zaratma\bin\Debug\net6.0-windows\Zaratma.dll
+C:\Users\irfaa\OneDrive\Masaüstü\C#\Zaratma\bin\Debug\net6.0-windows\Zaratma.pdb
+C:\Users\irfaa\OneDrive\Masaüstü\C#\Zaratma\obj\Debug\net6.0-windows\Zaratma.Form1.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\Zaratma\obj\Debug\net6.0-windows\Zaratma.csproj.GenerateResource.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\Zaratma\obj\Debug\net6.0-windows\Zaratma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irfaa\OneDrive\Masaüstü\C#\Zaratma\obj\Debug\net6.0-windows\Zaratma.AssemblyInfoInputs.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\Zaratma\obj\Debug\net6.0-windows\Zaratma.AssemblyInfo.cs
+C:\Users\irfaa\OneDrive\Masaüstü\C#\Zaratma\obj\Debug\net6.0-windows\Zaratma.csproj.CoreCompileInputs.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\Zaratma\obj\Debug\net6.0-windows\Zaratma.dll
+C:\Users\irfaa\OneDrive\Masaüstü\C#\Zaratma\obj\Debug\net6.0-windows\refint\Zaratma.dll
+C:\Users\irfaa\OneDrive\Masaüstü\C#\Zaratma\obj\Debug\net6.0-windows\Zaratma.pdb
+C:\Users\irfaa\OneDrive\Masaüstü\C#\Zaratma\obj\Debug\net6.0-windows\Zaratma.genruntimeconfig.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\Zaratma\obj\Debug\net6.0-windows\ref\Zaratma.dll
